@@ -1,0 +1,9 @@
+SCC = This is a Source Code Control file
+
+[RFID_Reader.sln]
+SCC_Aux_Path = "\\doc\prg$"
+SCC_Project_Name = "$/VSS2017/RFID_Reader", VDGGAAAA
+
+[RFID_USBReader.sln]
+SCC_Aux_Path = "\\doc\prg$"
+SCC_Project_Name = "$/VSS2017/RFID_USBReader", VDGGAAAA
